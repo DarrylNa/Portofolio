@@ -1,2 +1,6 @@
-Dalam project ini saya menganalisis data transaksi e-commerce yang mencakup informasi produk, pelanggan, dan transaksi. Tujuannya adalah mengungkap pola dan tren menggunakan analisis data dan visualisasi untuk mendukung keputusan strategis perusahaan. Proses meliputi:
-Preprocessing Data, Mengeksplorasi statistik deskriptif, Membuat grafik untuk: Tren Penjualan, Distribusi Penjualan, Analisis Pelanggan dan Produk, Hubungan antar variable. Sehingga output berupa laporan dalam format Markdown PDF, mencakup kode, grafik, dan insight yang relevan.
+Dalam project ini saya menganalisis data transaksi e-commerce yang mencakup informasi produk, 
+pelanggan, dan transaksi. Tujuannya adalah mengungkap pola dan tren menggunakan analisis data 
+dan visualisasi untuk mendukung keputusan strategis perusahaan. Proses meliputi:
+Preprocessing Data, Mengeksplorasi statistik deskriptif, Membuat grafik untuk: Tren Penjualan, 
+Distribusi Penjualan, Analisis Pelanggan dan Produk, Hubungan antar variable. 
+Sehingga output berupa laporan dalam format Markdown PDF, mencakup kode, grafik, dan insight yang relevan.
